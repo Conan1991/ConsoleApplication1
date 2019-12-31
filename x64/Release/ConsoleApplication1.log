@@ -1,6 +1,6 @@
 ﻿  ConsoleApplication1.cpp
   Generating code
-  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  Compiler version has changed, fall back to full compilation.
   All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   ConsoleApplication1.vcxproj -> C:\Users\VitalyPC\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
